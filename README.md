@@ -1,9 +1,9 @@
 <!-- صورة الغلاف وصورة الشخصية -->
-<div style="position: relative; text-align: center; color: white; margin-bottom: 30px;">
+<!--<div style="position: relative; text-align: center; color: white; margin-bottom: 30px;">
   <img src="https://media.licdn.com/dms/image/v2/D5616AQF2dpW35x9w3Q/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724254548646?e=1732752000&v=beta&t=v5kBYXkqX7b6Q8LQk5TRnSn2qVLZZrQVGVtsIHmpOjc" alt="Cover Photo" style="width: 100%; height: 300px; object-fit: cover;">
-
+ --!>
   <!-- صورة شخصية -->
-  <img src="https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-6/407804306_6211351205635102_3510294879559885453_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Cx-QLhIoLSEQ7kNvgG0xJIR&_nc_ht=scontent.fcai20-3.fna&_nc_gid=ANr8pBMKoNXOxxsa4wjum3G&oh=00_AYBMvG5goQURkDsXbklRQ5z39iDbDSq-ikeDcNo0q7kctg&oe=66F8AD0D" alt="Profile Photo" style="width: 450px; height: 450px; border-radius: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 5px solid white;">
+<!-- <img src="https://scontent.fcai20-3.fna.fbcdn.net/v/t39.30808-6/407804306_6211351205635102_3510294879559885453_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Cx-QLhIoLSEQ7kNvgG0xJIR&_nc_ht=scontent.fcai20-3.fna&_nc_gid=ANr8pBMKoNXOxxsa4wjum3G&oh=00_AYBMvG5goQURkDsXbklRQ5z39iDbDSq-ikeDcNo0q7kctg&oe=66F8AD0D" alt="Profile Photo" style="width: 450px; height: 450px; border-radius: 50%; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); border: 5px solid white;"> --!>
   
   <!-- النص في مقدمة صورة الغلاف -->
   <h1 style="position: absolute; top: 65%; left: 50%; transform: translate(-50%, -50%); color: black;">Hi 👋, I'm Mustafa Bayoumi</h1>
