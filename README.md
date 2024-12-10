@@ -10,7 +10,7 @@
   <h3 style="position: absolute; top: 75%; left: 50%; transform: translate(-50%, -50%); color: black;">A passionate frontend developer from Egypt</h3>
 </div>
 
-- 🌱 I’m currently learning **React.Js , Next.Js**
+- 🌱 I’m currently learning **React.js , Next.js**
 
 - 💬 Ask me about **React , TailwindCss , BootStrap , JavaScript ,typeScript**
 
