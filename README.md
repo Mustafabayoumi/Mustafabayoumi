@@ -28,15 +28,17 @@
 
 ### Languages and Tools:
 <p align="left"> 
-  <!-- Babel -->
-  <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" style="filter: invert(100%)" /> 
-  </a> 
+ <!-- Babel -->
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="babel" width="40" height="40" /> 
+</a>
 
-  <!-- Bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="filter: invert(100%)" /> 
-  </a> 
+
+ <!-- Bootstrap -->
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
+</a>
+ 
 
   <!-- CSS -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
@@ -63,15 +65,15 @@
     <img src="https://raw.githubusercontent.com/leungwensen/svg-icon/b84b3f3a3da329b7c1d02346865f8e98beb05413/dist/svg/logos/middleman.svg" alt="middleman" width="40" height="40"/> 
   </a> 
 
-  <!-- NextJS -->
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" style="filter: invert(100%)" /> 
-  </a>
+ <!-- NextJS -->
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40" style="background-color: white; border-radius: 6px;" /> 
+</a>
 
-  <!-- Postman -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="filter: invert(100%)" /> 
-  </a> 
+<!-- Postman -->
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" alt="postman" width="40" height="40" style="background-color: white; padding: 4px; border-radius: 6px;" />
+</a>
 
   <!-- React -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
@@ -88,10 +90,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
   </a> 
 
-  <!-- Tailwind -->
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" " /> 
-  </a> 
+<!-- TailwindCSS -->
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
+       alt="tailwindcss" 
+       width="40" 
+       height="40" 
+       style="background-color: white; padding: 5px; border-radius: 8px;" />
+</a>
+
 
   <!-- TypeScript -->
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
